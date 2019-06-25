@@ -1,7 +1,8 @@
 # ChatSentimentAnalysis
 ![main](https://i.imgur.com/zyKgSBZ.png)
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [[!python](https://img.shields.io/badge/python-3.6-orange.svg)](https://img.shields.io/badge/python-3.6-orange.svg)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
+![Python](https://img.shields.io/badge/python-3.6-orange.svg)
 
 > Sentiment analysis of chat data including text, smileys, emojis and images (gifs) with the included difficuly of sarcasm.
 
