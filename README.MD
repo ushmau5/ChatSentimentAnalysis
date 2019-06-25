@@ -74,15 +74,15 @@
 ![accuracy](https://i.imgur.com/7Nx6BNi.png)
 - 5000 images used in training with 2500 of each class.
 - Model trained and evaluated on balanced data set using a training/validation split of 70/30.
-- Below is an example of the top 5 negative and positive images from the validation data.
+- Below is an example of the top negative and positive images from the validation data.
 
-#### Top 5 Negative
-![neg1](https://i.imgur.com/WR0C6Qq.gif) ![neg2](https://i.imgur.com/ios7EqN.gif) ![neg3](https://i.imgur.com/vGWhWhS.gif) ![neg4](https://i.imgur.com/yauDFtM.gif) ![neg5](https://i.imgur.com/s275CbK.gif)
+#### Top Negative
+![neg1](https://i.imgur.com/WR0C6Qq.gif) ![neg2](https://i.imgur.com/ios7EqN.gif) ![neg3](https://i.imgur.com/vGWhWhS.gif) ![neg4](https://i.imgur.com/yauDFtM.gif) ![neg5](https://i.imgur.com/s275CbK.gif) ![neg6](https://i.imgur.com/DqI48vB.gif) ![neg7](https://i.imgur.com/OLffiZ5.gif) ![neg8](https://i.imgur.com/jkOkrUo.gif)
 
 
 
-#### Top 5 Positive
-![1pos](https://i.imgur.com/6D351qa.gif) ![pos2](https://i.imgur.com/qywFKc8.gif) ![pos3](https://i.imgur.com/g8Ln6bj.gif) ![pos4](https://i.imgur.com/4KCDcMe.gif) ![pos5](https://i.imgur.com/26KSllL.gif)
+#### Top Positive
+![1pos](https://i.imgur.com/6D351qa.gif) ![pos2](https://i.imgur.com/qywFKc8.gif) ![pos3](https://i.imgur.com/g8Ln6bj.gif) ![pos4](https://i.imgur.com/4KCDcMe.gif) ![pos5](https://i.imgur.com/26KSllL.gif) ![pos6](https://i.imgur.com/tbuNFFS.gif) ![pos7](https://i.imgur.com/keGjqkC.gif) ![pos8](https://i.imgur.com/d7srKWA.gif)
 
 ## FAQ
 
